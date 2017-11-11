@@ -8,5 +8,9 @@ public class Person {
   	System.out.println(name + "is working");
   }
 
+<<<<<<< HEAD
   master branch modification
+=======
+  feature1 branch modification
+>>>>>>> feature1
 }
